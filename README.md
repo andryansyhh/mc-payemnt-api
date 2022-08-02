@@ -1,1 +1,1 @@
-# mc-payemnt-api
+# mc-payment-api
